@@ -25,11 +25,13 @@
 
 ## 三、快速启动
 
-### 安装Canal
+### 安装部署Canal Server
 
 Canal 的安装以及配置使用请查看 https://github.com/alibaba/canal/wiki/QuickStart
 
-### 环境要求
+### 安装部署Canal client
+
+#### 环境要求
 
 jdk < 9
 

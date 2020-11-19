@@ -1,7 +1,0 @@
-dataSourceKey: defaultDS
-destination: examplezxc
-outerAdapterKey: mysql1
-concurrent: true
-dbMapping:
-  mirrorDb: true
-  database: zzq

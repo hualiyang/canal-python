@@ -1,0 +1,1 @@
+{"clientDatas":[{"clientIdentity":{"clientId":1001,"destination":"example","filter":"DSTtest.user"},"cursor":{"identity":{"slaveId":-1,"sourceAddress":{"address":"tv6-dcdb-test-01","port":3306}},"postion":{"gtid":"","included":false,"journalName":"mysql-bin.000030","position":4290,"serverId":1,"timestamp":1605701891000}}}],"destination":"example"}

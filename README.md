@@ -35,7 +35,12 @@ Canal 的安装以及配置使用请查看 https://github.com/alibaba/canal/wiki
 
 jdk < 9
 
-#### 建立与数据源canal server的连接
+#### 下载
+
+```git clone https://github.com/hualiyang/canal-python.git```
+
+#### 修改配置
+##### 建立与数据源canal server的连接
 
 ```config
 cd canal-client/
@@ -63,7 +68,7 @@ username=test
 password=********
 ```
 
-#### 建立与数据目的地BaikalDB的连接
+##### 建立与数据目的地BaikalDB的连接
 
 ```
 vim conf/sender.cnf

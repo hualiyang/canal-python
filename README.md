@@ -33,7 +33,8 @@ Canal 的安装以及配置使用请查看 https://github.com/alibaba/canal/wiki
 
 #### 环境要求
 
-jdk < 9
+jdk < 9 
+python <= 2
 
 #### 下载
 

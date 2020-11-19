@@ -54,7 +54,7 @@ client_id = 1001 #一个instance一个client_id
 #instance_destination当前server上部署的instance列表，这里用的是example,要与canal/conf目录下创建的instance配置文件夹一致
 instance_destination = example 
 #这里同步的是DSTtest库的user表
-filter = DSTtest.user 
+filter = DSTtest.user #DSTtest库下的所有表DSTtest..*
 
 
 #配置mysql用于同步的账户、密码

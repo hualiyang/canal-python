@@ -1,7 +1,7 @@
 # Canal-python Client for BaikalDB
 ## 一、概述
 
-**Canal**是一款阿里巴巴开源的基于mysql数据库binlog的增量订阅&消费组件。canal 特别设计了 client-server 模式，交互协议使用 protobuf 3.0 , client 端可采用不同语言实现不同的消费逻辑，本项目forks canal官网的python客户端：[Canal-python client](https://github.com/alibaba/canal/wiki) ， 并添加了对**BaikalDB**支持。
+**Canal**是一款阿里巴巴开源的基于mysql数据库binlog的增量订阅&消费组件。canal 特别设计了 client-server 模式，交互协议使用 protobuf 3.0 , client 端可采用不同语言实现不同的消费逻辑，本项目forks canal官网的python客户端：[Canal-python client](https://github.com/alibaba/canal/wiki) ， 并添加了对 [**BaikalDB**](https://github.com/baidu/BaikalDB) 支持。
 
 有关**Canal** 和 **Canal-python** 更多的信息请访问：
 
